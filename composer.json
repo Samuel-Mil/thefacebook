@@ -1,0 +1,17 @@
+{
+    "name": "samuel/thefacebook",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./",
+            "App\\Core\\": "core/",
+            "App\\Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Samuel Milhomens",
+            "email": "samuel.mil.mar@gmail.com"
+        }
+    ],
+    "require": {}
+}
